@@ -1,2 +1,2 @@
 # cp_100
-http://127.0.0.1:5500/index.html
+C:\Users\USER\OneDrive\Documents\python\index.html
